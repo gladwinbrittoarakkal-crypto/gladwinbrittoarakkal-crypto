@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gladwin
 
-<!--
-**gladwinbrittoarakkal-crypto/gladwinbrittoarakkal-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Communication Engineering Student  
+Interested in VLSI, AI/ML & Embedded Systems  
+Building projects and learning new technologies
 
-Here are some ideas to get you started:
+##  Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: www.linkedin.com/in/gladwin-britto-4b628537a
+
+##  Skills
+
+- C 
+- Python
